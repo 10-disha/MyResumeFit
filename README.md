@@ -1,6 +1,6 @@
-# 📄 Smart ATS
+# 📄 MyResumeFit
 
-**Smart ATS** is a web application that helps improve your resume for Applicant Tracking Systems (ATS). The application extracts text from your resume, compares it with a job description, and provides feedback on how well your resume matches the job description.
+**MyResumeFit** is a web application that helps improve your resume for Applicant Tracking Systems (ATS). The application extracts text from your resume, compares it with a job description, and provides feedback on how well your resume matches the job description.
 
 ## ✨ Features
 
@@ -22,8 +22,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/smart-ats.git
-   cd smart-ats
+   git clone https://github.com/yourusername/myresumefit.git
+   cd myresumefit
    ```
 
 2. **Set Up a Virtual Environment**
@@ -68,7 +68,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## 📂 Project Structure
 
-smart-ats/
+myresumefit/
 ├── .env
 ├── .gitignore
 ├── app.py

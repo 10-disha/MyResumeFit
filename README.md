@@ -93,10 +93,6 @@ Below is an example of how to use the application:
 
    The application will analyze your resume and provide a structured response including JD match percentage, missing keywords, and a profile summary.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
